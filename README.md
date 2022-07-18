@@ -11,7 +11,7 @@ research interests include adaptive dynamic programming, reinforcement learning,
  M.S.,   Fundamental Mathematics, 2011,   
          School of Mathematics, Shandong University, Jinan, Shandong, China
          
- B.S.,   Mathematics and Applied Mathematics, 2008,
+ B.S.,   Mathematics and Applied Mathematics, 2008,  
          School of Mathematics and Statistics, Huazhong Normal University, Wuhan, China
 
 # Header 1
