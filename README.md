@@ -8,7 +8,7 @@ research interests include adaptive dynamic programming, reinforcement learning,
  PH.D.   Control Theory and Control Engineering, 2014,  
          Institute of Automation, Chinese Academy of Sciences, Beijing, China
          
- M.S.,   Fundamental Mathematics, 2011 
+ M.S.,   Fundamental Mathematics, 2011,   
          School of Mathematics, Shandong University, Jinan, Shandong, China
          
  B.S.,   Mathematics and Applied Mathematics, 2008,
