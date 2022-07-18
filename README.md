@@ -1,7 +1,6 @@
 ## Welcome to Xiong's HomePage
 
-Dr. Xiong Yang has been served at the School of Electrical and Information Engineering, Tianjin University since May 2016. His
-research interests include adaptive dynamic programming, reinforcement learning, intelligent control,  neural networks, and their applications.
+Dr. Xiong Yang has been served at the School of Electrical and Information Engineering, Tianjin University since May 2016. His research interests include reinforcement learning, intelligent control, Computation Intelligence, and their applications.
 
 ## Education
 
