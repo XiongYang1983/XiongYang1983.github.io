@@ -1,14 +1,18 @@
-# Welcome to Xiong's HomePage
+## Welcome to Xiong's HomePage
 
 Dr. Xiong Yang has been served with the School of Electrical and Information Engineering, Tianjin University since May 2016. His
 research interests include adaptive dynamic programming, reinforcement learning, intelligent control,  neural networks, and their applications.
 
 ## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+ PH.D.   Control Theory and Control Engineering, 2014,  
+         Institute of Automation, Chinese Academy of Sciences, Beijing, China
+         
+ M.S.,   Fundamental Mathematics, 2011 
+         School of Mathematics, Shandong University, Jinan, Shandong, China
+         
+ B.S.,   Mathematics and Applied Mathematics, 2008,
+         School of Mathematics and Statistics, Huazhong Normal University, Wuhan, China
 
 # Header 1
 ## Header 2
