@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Xiong's HomePage
 
-You can use the [editor on GitHub](https://github.com/XiongYang1983/XiongYang1983.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Dr. Xiong Yang has been served with the School of Electrical and Information Engineering, Tianjin University since May 2016. His
+research interests include adaptive dynamic programming, reinforcement learning, intelligent control,  neural networks, and their applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
